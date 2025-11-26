@@ -1,18 +1,21 @@
-# 👋 Hi, I'm Md. Fahad Nakib  
+# Hi, I'm Md. Fahad Nakib  
 
-🎓 **Graduate Researcher | Full-Stack Developer | Aspiring DevOps Engineer**  
+💻 **Full-Stack Developer | Future DevOps Engineer | Problem Solver**  
 📍 Araihazar, Narayanganj, Bangladesh  
 
 ---
 
-## 🚀 About Me  
-I’m passionate about building **scalable, reliable, and user-focused software systems**. Currently pursuing my **B.Sc. in Computer Science & Engineering at Green University of Bangladesh (CGPA 3.68/4.00, Dean’s Award Spring & Fall 2022)**, I specialize in **ML-powered applications, full-stack web development, and DevOps practices**.  
+## About Me
+I’m a full-stack developer with a strong foundation in backend architecture, frontend responsiveness, and clean, maintainable code. I specialize in building scalable web applications using **Node.js**, **PHP**, **React.js**, **MySQL**, and **TypeScript**, and I’m confident working across the entire development lifecycle — from database design to UI optimization.
 
-My journey is driven by a vision to bridge **development and operations** with automation, CI/CD pipelines, and cloud-native solutions, ultimately delivering **production-ready intelligent systems**.  
+My workflow includes **Docker** for containerization, **Git** for version control, and **Linux** for system-level operations, and I’m actively expanding into **DevOps** by learning **CI/CD pipelines**, **cloud-native deployment**, and **automation strategies**. I enjoy solving real-world problems with elegant code, optimizing performance, and streamlining collaboration between development and operations.
+
+I’m looking to join a team as a **Software Engineer** where I can contribute immediately, while growing into a **DevOps Engineer** who delivers reliable, production-ready systems at scale.
+y journey is driven by a vision to bridge **development and operations** with automation, CI/CD pipelines, and cloud-native solutions, ultimately delivering **production-ready intelligent systems**.  
 
 ---
 
-## 🔧 Tech Stack & Skills  
+## My Tech Stack & Skills  
 
 ### Languages
 
@@ -61,14 +64,14 @@ My journey is driven by a vision to bridge **development and operations** with a
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 - **DiagonoAid** – AI-powered blood report analyzer using **XGBoost + Generative AI**, achieving **100% accuracy** across 5 disease categories.  
 - **CareerCompass** – Full-stack platform connecting students with universities & scholarships, boosting engagement by **35%**.  
 - **Event Organizer Website** – Secure, responsive event management system with optimized database performance.  
 
 ---
 
-## 🎯 Career Goals  
+## Career Goals  
 - Transition into **DevOps & MLOps** roles  
 - Build **automation pipelines** and **cloud-native solutions**  
 - Deliver **scalable, intelligent systems** that make ML insights accessible to everyone  
