@@ -1,6 +1,6 @@
 # Hi, I'm Md. Fahad Nakib  
 
-💻 **Full-Stack Developer | Aspiring DevOps Engineer | Problem Solver**  
+💻 **Software Engineer | Full-Stack Developer | Aspiring DevOps Engineer | Problem Solver**  
 📍 Araihazar, Narayanganj, Bangladesh  
 
 ---
